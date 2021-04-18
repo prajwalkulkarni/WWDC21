@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>ChapterTwoName</string>
+	<key>Pages</key>
+	<array>
+		<string>Intro.cutscenepage</string>
+		<string>Who wants to be a climate warrior.playgroundpage</string>
+		<string>outro.cutscenepage</string>
+	</array>
+</dict>
+</plist>
